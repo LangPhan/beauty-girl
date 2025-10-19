@@ -202,7 +202,7 @@ const CurvedLoop: FC<
       }}
     >
       <svg
-        className="select-none w-full overflow-visible block aspect-[100/12] text-[6rem] font-bold uppercase leading-none absolute bottom-0 -translate-y-[100%] pointer-events-auto"
+        className="select-none w-full overflow-visible block aspect-[100/12] text-[6rem] font-bold uppercase leading-none absolute bottom-0 -translate-y-[140%] pointer-events-auto"
         viewBox="0 0 1440 120"
         onPointerDown={onPointerDown}
         onPointerMove={onPointerMove}

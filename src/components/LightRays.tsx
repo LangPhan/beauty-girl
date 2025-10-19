@@ -219,6 +219,8 @@ const LightRays: React.FC<
         const gl = renderer.gl;
         gl.canvas.style.width = "100%";
         gl.canvas.style.height = "100%";
+        gl.canvas.style.display =
+          "block";
 
         while (
           containerRef.current
